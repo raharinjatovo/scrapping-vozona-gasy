@@ -118,3 +118,4 @@ Replace `script.js` with the actual file name where the above script is saved.
 - Ensure that ChromeDriver is installed and is in your system's PATH.
 - Modify the script as needed if the website structure changes.
 - Handle errors and timeouts to make the script robust.
+<!--  -->
